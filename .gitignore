@@ -1,0 +1,10 @@
+# system
+.DS_Sytem
+
+# IDE
+.idea/
+
+# deps
+node_modules/
+
+

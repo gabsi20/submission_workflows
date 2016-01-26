@@ -1,0 +1,20 @@
+{
+  "name": "basic_setup",
+  "version": "1.0.0",
+  "description": "Just a basic project setup for a frontend projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Gabriel",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "fetch": "^1.0.0",
+    "jquery": "^2.2.0",
+    "sass": "^0.5.0"
+  },
+  "devDependencies": {
+    "babel": "^6.3.26"
+  }
+}
